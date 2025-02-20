@@ -27,6 +27,7 @@
 <p align="center">
  <div style="margin-top: 150px;">
     <img src="https://i.imgur.com/FvdQs6S.png" width="350" align="left" >
+  
  </div>
   
   <div align="right">
