@@ -24,22 +24,28 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
 ---
+<p align="center">
+ <div style="margin-top: 150px;">
+    <img src="https://i.imgur.com/FvdQs6S.png" width="350" align="left" >
+ </div>
+  
+  <div align="right">
+  
+   
+  [![Cao Quoc An's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anpc33&show_icons=true&theme=radical)](https://github.com/anpc33)
 
-## 📈 GitHub Stats
-[![Cao Quoc An's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anpc33&show_icons=true&theme=radical)](https://github.com/anpc33)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anpc33&layout=compact&theme=radical)](https://github.com/anpc33)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anpc33&layout=compact&theme=radical)](https://github.com/anpc33)
+  </div>
+</p>
 
----
 
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=anpc33&theme=gruvbox&row=1&column=7)](https://github.com/anpc33)
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com//a/subI6qn" width="350">
-</p>
+
 
 ## 📬 Contact Me:
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ancqph51578@gmail.com)
